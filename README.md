@@ -1,0 +1,2 @@
+# learn
+Termux hacking trick
